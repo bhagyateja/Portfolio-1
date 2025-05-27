@@ -1,5 +1,5 @@
 body{
-     background-color: rgb(209, 205, 210);
+   background-color: rgb(1, 45, 76);
 }
 
 .navbar-nav .nav-link:hover{
@@ -16,7 +16,7 @@ body{
 }
 
 .navbar-dark{
-    background-color: rgb(18,1,46);
+    background-color: rgb(11, 11, 11);
 }
 
 .circular-image-container{
@@ -61,11 +61,12 @@ display: block;
     display: block;
 }
 
-.jumbtron{
-    background-color: #0a0a0a0e;
-    padding:10px;
-    border-radius:5px;
+.jumbotron {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
 }
+
 
 
 .display4 {
@@ -75,7 +76,7 @@ font-size: 24px;
 
 .lead{
     font-size: 18px;
-    color:#fff;
+    color:#080808;
 }
 
 .form-container{

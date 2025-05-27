@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(209, 205, 210);
+    background-color: rgb(13, 13, 14);
 }
 
 .navbar-nav .nav-link:hover{
@@ -9,14 +9,16 @@ body{
 
 .navbar-nav .nav-link{
     font-size: 20px;
+    color: black; 
 }
 
 .navbar-brand{
     font-size: 25px;
+    color: black; 
 }
 
 .navbar-dark{
-    background-color: rgb(18,1,46);
+    background-color: rgb(242, 241, 243);
 }
 
 .circular-image-container{

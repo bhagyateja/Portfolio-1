@@ -41,7 +41,7 @@ def projects (request):
         },
          {
             'title': 'Portfolio',
-            'path': 'images/portfolio.PNG',
+            'path': 'images/portfolio.png',
         },
                   {
             'title': 'Labour Hiring',
