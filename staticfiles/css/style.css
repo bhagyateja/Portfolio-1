@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(20,0,30);
+    background-color: rgb(209, 205, 210);
 }
 
 .navbar-nav .nav-link:hover{
@@ -62,9 +62,9 @@ display: block;
 }
 
 .jumbtron{
-    background-color: #002244;
-    padding:20px;
-    border-radius:10px;
+    background-color: #0a0a0a0e;
+    padding:10px;
+    border-radius:5px;
 }
 
 
@@ -75,7 +75,7 @@ font-size: 24px;
 
 .lead{
     font-size: 18px;
-    color:#28a745;
+    color:#fff;
 }
 
 .form-container{
